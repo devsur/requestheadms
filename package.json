@@ -1,0 +1,19 @@
+{
+  "name": "RHPMS",
+  "version": "0.0.1",
+  "description": "request header parser microservice",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "x.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./"
+  },
+  "author": "x",
+  "license": "ISC"
+}
